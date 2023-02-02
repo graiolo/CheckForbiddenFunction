@@ -1,0 +1,9 @@
+exit
+free
+malloc
+read
+va_arg
+va_copy
+va_end
+va_start
+write

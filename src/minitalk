@@ -1,0 +1,13 @@
+exit
+free
+getpid
+kill
+malloc
+pause
+sigaction
+sigaddset
+sigemptyset
+signal
+sleep
+usleep
+write

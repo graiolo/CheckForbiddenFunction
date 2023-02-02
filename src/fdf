@@ -1,0 +1,13 @@
+close
+exit
+free
+malloc
+open
+perror
+read
+strerror
+va_arg
+va_copy
+va_end
+va_start
+write
